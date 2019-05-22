@@ -1,0 +1,26 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+tfoot input {
+    width: 90%;
+    padding: 3px;
+    box-sizing: border-box;
+}
+
+#products_length {
+    display: none;
+}
+
+#products_filter label {
+    /*width: 100%;*/
+    float: left;
+}
+
+.list-product {
+    border: 1px solid #aaaaaa;
+}
+.list-product tr td {
+    /*border: 1px solid #aaaaaa;*/
+}
